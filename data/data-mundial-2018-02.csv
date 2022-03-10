@@ -1,0 +1,737 @@
+"ID","ShirtName","DOB","POS","Club","Height","Caps","Goals"
+1,"GUZMÁN","10.02.1986","GK","Tigres (MEX)",192,6,0
+2,"MERCADO","18.03.1987","DF","Sevilla FC (ESP)",181,20,3
+3,"TAGLIAFICO","31.08.1992","DF","Ajax (NED)",169,4,0
+4,"ANSALDI","20.09.1986","DF","Torino (ITA)",181,5,1
+5,"BIGLIA","30.01.1986","MF","AC Milan (ITA)",175,57,1
+6,"FAZIO","17.03.1987","DF","AS Roma (ITA)",199,9,1
+7,"BANEGA","29.06.1988","MF","Sevilla FC (ESP)",175,62,6
+8,"ACUÑA","28.10.1991","DF","Sporting CP (POR)",172,10,0
+9,"HIGUAÍN","10.12.1987","FW","Juventus (ITA)",184,72,31
+10,"MESSI","24.06.1987","FW","FC Barcelona (ESP)",170,124,64
+11,"DI MARÍA","14.02.1988","MF","Paris Saint-Germain (FRA)",178,94,19
+12,"ARMANI","16.10.1986","GK","River Plate (ARG)",189,0,0
+13,"MEZA","15.12.1992","MF","Independiente (ARG)",180,2,0
+14,"MASCHERANO","08.06.1984","DF","Hebei Huabei (CHN)",174,143,3
+15,"PÉREZ","22.02.1986","MF","River Plate (ARG)",178,23,1
+16,"MARCOS ROJO","20.03.1990","DF","Manchester United (ENG)",189,56,2
+17,"OTAMENDI","12.02.1988","DF","Manchester City (ENG)",181,54,4
+18,"SALVIO","13.07.1990","DF","Benfica (POR)",167,9,0
+19,"KUN AGUERO","02.06.1988","FW","Manchester City (ENG)",172,85,37
+20,"LO CELSO","09.04.1996","MF","Paris Saint-Germain (FRA)",177,5,0
+21,"DYBALA","15.11.1993","FW","Juventus (ITA)",177,12,0
+22,"PAVÓN","21.01.1996","MF","Boca Juniors (ARG)",169,5,0
+23,"CABALLERO","28.09.1981","GK","Chelsea (ENG)",186,3,0
+24,"RYAN","08.04.1992","GK","Brighton (ENG)",184,44,0
+25,"DEGENEK","28.04.1994","DF","Yokohama F Marinos (JPN)",187,18,0
+26,"MEREDITH","05.04.1988","DF","Millwall (ENG)",179,2,0
+27,"CAHILL","06.12.1979","FW","Millwall (ENG)",180,106,50
+28,"MILLIGAN","04.08.1985","DF","Al Ahli (KSA)",178,68,6
+29,"JURMAN","08.12.1989","DF","Suwon Samsung Bluewings (KOR)",190,4,0
+30,"LECKIE","04.02.1991","FW","Hertha BSC (GER)",181,53,8
+31,"LUONGO","25.09.1992","MF","Queens Park Rangers (ENG)",176,36,5
+32,"JURIC","22.07.1991","FW","FC Luzern (SUI)",190,35,8
+33,"KRUSE","05.10.1988","FW","VfL Bochum (GER)",180,64,5
+34,"NABBOUT","17.12.1992","FW","Urawa Reds (JPN)",178,4,1
+35,"JONES","19.03.1982","GK","Feyenoord (NED)",193,6,0
+36,"MOOY","15.09.1990","MF","Huddersfield (ENG)",173,34,5
+37,"MACLAREN","29.07.1993","FW","Hibernian (SCO)",178,6,0
+38,"JEDINAK","03.08.1984","MF","Aston Villa (ENG)",188,76,18
+39,"BEHICH","16.12.1990","DF","Bursaspor (TUR)",170,23,2
+40,"ARZANI","04.01.1999","FW","Melbourne City Football Club (AUS)",171,2,1
+41,"VUKOVIC","27.03.1985","GK","Racing Genk (BEL)",187,1,0
+42,"RISDON","27.07.1992","DF","WS Wanderers FC (AUS)",169,8,0
+43,"SAINSBURY","05.01.1992","DF","Grasshoppers (SUI)",183,35,3
+44,"PETRATOS","10.11.1992","FW","Newcastle Jets (AUS)",176,2,0
+45,"IRVINE","07.03.1993","MF","Hull City (ENG)",180,19,2
+46,"ROGIC","16.12.1992","MF","Celtic (SCO)",189,37,7
+47,"COURTOIS","11.05.1992","GK","Chelsea (ENG)",199,58,0
+48,"ALDERWEIRELD","02.03.1989","DF","Tottenham Hotspur (ENG)",186,77,3
+49,"VERMAELEN","14.11.1985","DF","FC Barcelona (ESP)",183,66,1
+50,"KOMPANY","10.04.1986","DF","Manchester City (ENG)",190,77,4
+51,"VERTONGHEN","24.04.1987","DF","Tottenham Hotspur (ENG)",189,102,8
+52,"WITSEL","12.01.1989","MF","Tianjin Quanjian Football Club (CHN)",186,90,9
+53,"DE BRUYNE","28.06.1991","MF","Manchester City (ENG)",181,62,14
+54,"FELLAINI","22.11.1987","MF","Manchester United (ENG)",194,82,17
+55,"R. LUKAKU","13.05.1993","FW","Manchester United (ENG)",190,69,36
+56,"E. HAZARD","07.01.1991","FW","Chelsea (ENG)",173,86,22
+57,"CARRASCO","04.09.1993","MF","Dalian Yifang Football Club (CHN)",180,26,5
+58,"MIGNOLET","06.03.1988","GK","Liverpool (ENG)",193,21,0
+59,"CASTEELS","25.06.1992","GK","VfL Wolfsburg (GER)",197,0,0
+60,"MERTENS","06.05.1987","FW","SSC Napoli (ITA)",169,69,14
+61,"MEUNIER","12.09.1991","DF","Paris Saint-Germain (FRA)",190,25,5
+62,"T. HAZARD","29.03.1993","MF","Borussia Moenchengladbach (GER)",174,11,1
+63,"TIELEMANS","07.05.1997","MF","AS Monaco (FRA)",176,9,0
+64,"JANUZAJ","05.02.1995","FW","Real Sociedad (ESP)",180,8,0
+65,"DEMBELE","16.07.1987","MF","Tottenham Hotspur (ENG)",185,76,5
+66,"BOYATA","28.11.1990","DF","Celtic (SCO)",188,7,0
+67,"BATSHUAYI","02.10.1993","FW","Borussia Dortmund (GER)",185,16,7
+68,"CHADLI","02.08.1989","MF","West Bromwich Albion FC (ENG)",187,45,5
+69,"DENDONCKER","15.04.1995","DF","Anderlecht (BEL)",188,5,0
+70,"A. BECKER","02.10.1992","GK","AS Roma (ITA)",193,26,0
+71,"T. SILVA","22.09.1984","DF","Paris Saint-Germain (FRA)",183,71,5
+72,"MIRANDA","07.09.1984","DF","Internazionale (ITA)",186,47,2
+73,"GEROMEL","21.09.1985","DF","Grêmio (BRA)",190,2,0
+74,"CASEMIRO","23.02.1992","MF","Real Madrid (ESP)",185,24,0
+75,"FILIPE LUIS","09.08.1985","DF","Atlético Madrid (ESP)",182,33,2
+76,"D. COSTA","14.09.1990","FW","Juventus (ITA)",182,25,3
+77,"R. AUGUSTO","08.02.1988","MF","Beijing Guoan (CHN)",186,28,5
+78,"G. JESUS","03.04.1997","FW","Manchester City (ENG)",175,17,10
+79,"NEYMAR JR","05.02.1992","FW","Paris Saint-Germain (FRA)",175,85,55
+80,"P. COUTINHO","12.06.1992","MF","FC Barcelona (ESP)",172,36,10
+81,"MARCELO","12.05.1988","DF","Real Madrid (ESP)",174,55,6
+82,"MARQUINHOS","14.05.1994","DF","Paris Saint-Germain (FRA)",183,26,0
+83,"DANILO","15.07.1991","DF","Manchester City (ENG)",184,18,0
+84,"PAULINHO","25.07.1988","MF","FC Barcelona (ESP)",181,50,12
+85,"CASSIO","06.06.1987","GK","SC Corinthians (BRA)",195,1,0
+86,"FERNANDINHO","04.05.1985","MF","Manchester City (ENG)",179,44,2
+87,"FRED","05.03.1993","MF","Shakhtar Donetsk (UKR)",169,8,0
+88,"WILLIAN","09.08.1988","MF","Chelsea (ENG)",175,57,8
+89,"FIRMINO","02.10.1991","FW","Liverpool (ENG)",181,21,6
+90,"TAISON","13.01.1988","FW","Shakhtar Donetsk (UKR)",172,8,1
+91,"FAGNER","11.06.1989","DF","SC Corinthians (BRA)",168,4,0
+92,"EDERSON","17.08.1993","GK","Manchester City (ENG)",188,1,0
+93,"OSPINA","31.08.1988","GK","Arsenal (ENG)",183,83,0
+94,"C. ZAPATA","30.09.1986","DF","AC Milan (ITA)",187,52,2
+95,"O. MURILLO","18.04.1988","DF","CF Pachuca (MEX)",184,13,0
+96,"ARIAS","13.01.1992","DF","PSV (NED)",177,41,0
+97,"BARRIOS","16.10.1993","MF","Boca Juniors (ARG)",178,10,0
+98,"C. SANCHEZ","06.02.1986","MF","RCD Espanyol (ESP)",182,80,0
+99,"BACCA","08.09.1986","FW","Villarreal CF (ESP)",181,45,14
+100,"AGUILAR T.","06.01.1985","MF","Cali (COL)",185,69,8
+101,"FALCAO","10.02.1986","FW","AS Monaco (FRA)",177,65,29
+102,"JAMES","12.07.1991","MF","Bayern München (GER)",180,63,21
+103,"CUADRADO","26.05.1988","MF","Juventus (ITA)",179,69,7
+104,"C. VARGAS","09.03.1989","GK","Cali (COL)",185,5,0
+105,"Y. MINA","23.09.1994","DF","FC Barcelona (ESP)",194,12,3
+106,"L. MURIEL","16.04.1991","FW","Sevilla FC (ESP)",178,18,2
+107,"M. URIBE","21.03.1991","MF","America (MEX)",182,8,0
+108,"J. LERMA","25.10.1994","MF","Levante UD (ESP)",179,5,0
+109,"J. MOJICA","21.08.1992","DF","Girona Futbol Club (ESP)",185,4,1
+110,"F. DIAZ","20.07.1983","DF","Olimpia (PAR)",170,13,0
+111,"M. BORJA","26.01.1993","FW","Palmeiras (BRA)",183,7,2
+112,"J. QUINTERO","18.01.1993","MF","River Plate (ARG)",169,15,2
+113,"IZQUIERDO","07.07.1992","FW","Brighton (ENG)",171,5,1
+114,"J.F. CUADRADO","01.06.1985","GK","Once Caldas (COL)",180,1,0
+115,"D. SANCHEZ","12.06.1996","DF","Tottenham Hotspur (ENG)",187,9,0
+116,"K. NAVAS","15.12.1986","GK","Real Madrid (ESP)",185,81,0
+117,"J. ACOSTA","21.07.1983","DF","Águilas Doradas Rionegro (COL)",176,66,2
+118,"G. GONZALEZ","08.02.1988","DF","Bologna (ITA)",186,68,2
+119,"I. SMITH","06.03.1998","DF","Norrkoping (SWE)",177,4,0
+120,"C. BORGES","27.05.1988","MF","Deportivo La Coruña (ESP)",187,111,18
+121,"O. DUARTE","03.06.1989","DF","RCD Espanyol (ESP)",186,36,2
+122,"C. BOLAÑOS","17.05.1984","MF","Saprissa (CRC)",178,82,7
+123,"B. OVIEDO","18.02.1990","DF","Sunderland (ENG)",172,42,1
+124,"D. COLINDRES","10.01.1985","MF","Saprissa (CRC)",180,11,0
+125,"BRYAN","18.08.1985","MF","Sporting CP (POR)",187,109,24
+126,"J. VENEGAS","27.11.1988","FW","Saprissa (CRC)",183,47,10
+127,"J. CAMPBELL","26.06.1992","FW","Real Betis (ESP)",178,77,15
+128,"R. WALLACE","17.06.1988","MF","New York City Football Club (USA)",180,28,4
+129,"R. AZOFEIFA","30.12.1984","MF","Herediano (CRC)",182,59,3
+130,"F. CALVO","08.07.1992","DF","Minnesota (USA)",180,36,4
+131,"C. GAMBOA","24.10.1989","DF","Celtic (SCO)",175,68,3
+132,"Y. TEJEDA","17.03.1992","MF","Lausanne (SUI)",179,49,0
+133,"P. PEMBERTON","24.04.1982","GK","Alajuelense (CRC)",178,39,0
+134,"K. WASTON","01.01.1988","DF","Vancouver Whitecaps (CAN)",196,25,2
+135,"D. GUZMAN","18.02.1990","MF","Portland Timbers (USA)",176,45,0
+136,"M. UREÑA","05.03.1990","FW","Los Angeles Football Club (USA)",181,62,14
+137,"R. MATARRITA","09.07.1994","DF","New York City Football Club (USA)",175,23,2
+138,"L. MOREIRA","02.04.1990","GK","Herediano (CRC)",179,9,0
+139,"LIVAKOVIĆ","09.01.1995","GK","Dinamo Zagreb (CRO)",188,1,0
+140,"VRSALJKO","10.01.1992","DF","Atlético Madrid (ESP)",181,35,0
+141,"STRINIĆ","17.07.1987","DF","Sampdoria (ITA)",186,43,0
+142,"PERIŠIĆ","02.02.1989","FW","Internazionale (ITA)",186,66,18
+143,"ĆORLUKA","05.02.1986","DF","Lokomotiv Moskva (RUS)",192,99,4
+144,"LOVREN","05.07.1989","DF","Liverpool (ENG)",188,39,2
+145,"RAKITIĆ","10.03.1988","MF","FC Barcelona (ESP)",184,92,14
+146,"KOVAČIĆ","06.05.1994","MF","Real Madrid (ESP)",178,41,1
+147,"KRAMARIĆ","19.06.1991","FW","1899 Hoffenheim (GER)",177,31,9
+148,"MODRIĆ","09.09.1985","MF","Real Madrid (ESP)",172,106,12
+149,"BROZOVIĆ","16.11.1992","MF","Internazionale (ITA)",181,35,6
+150,"L. KALINIĆ","03.04.1990","GK","AA Gent (BEL)",201,11,0
+151,"JEDVAJ","28.11.1995","DF","Bayer Leverkusen (GER)",184,12,0
+152,"BRADARIĆ","11.01.1992","MF","NK Rijeka (CRO)",186,4,0
+153,"ĆALETA-CAR","17.09.1996","DF","Red Bull Salzburg (AUT)",192,1,0
+154,"N. KALINIĆ","05.01.1988","FW","AC Milan (ITA)",187,42,15
+155,"MANDŽUKIĆ","21.05.1986","FW","Juventus (ITA)",190,83,30
+156,"REBIĆ","21.09.1993","FW","Eintracht Frankfurt (GER)",185,16,1
+157,"BADELJ","25.02.1989","MF","Fiorentina (ITA)",186,38,1
+158,"PJACA","06.05.1995","FW","Schalke 04 (GER)",186,16,1
+159,"VIDA","29.04.1989","DF","Besiktas (TUR)",184,59,2
+160,"PIVARIĆ","30.01.1989","DF","Dynamo Kyiv (UKR)",176,19,0
+161,"SUBAŠIĆ","27.10.1984","GK","AS Monaco (FRA)",191,38,0
+162,"SCHMEICHEL","05.11.1986","GK","Leicester (ENG)",190,35,0
+163,"KROHN-DEHLI","06.06.1983","MF","Deportivo La Coruña (ESP)",171,58,6
+164,"VESTERGAARD","03.08.1992","DF","Borussia Moenchengladbach (GER)",200,16,1
+165,"KJÆR","26.03.1989","DF","Sevilla FC (ESP)",191,75,3
+166,"KNUDSEN","16.09.1992","DF","Ipswich Town (ENG)",187,3,0
+167,"CHRISTENSEN","10.04.1996","DF","Chelsea (ENG)",192,16,1
+168,"KVIST","24.02.1985","MF","FC København (DEN)",185,80,2
+169,"DELANEY","03.09.1991","MF","Werder Bremen (GER)",180,27,4
+170,"N. JØRGENSEN","15.01.1991","FW","Feyenoord (NED)",194,31,8
+171,"ERIKSEN","14.02.1992","MF","Tottenham Hotspur (ENG)",181,78,22
+172,"BRAITHWAITE","05.06.1991","FW","Girondins Bordeaux (FRA)",180,20,1
+173,"DOLBERG","06.10.1997","FW","Ajax (NED)",187,6,1
+174,"M. JØRGENSEN","23.04.1990","DF","Huddersfield (ENG)",191,12,0
+175,"DALSGAARD","27.07.1989","DF","Brentford (ENG)",190,11,0
+176,"FISCHER","09.06.1994","FW","FC København (DEN)",181,19,3
+177,"LÖSSL","01.02.1989","GK","Huddersfield (ENG)",195,1,0
+178,"STRYGER","21.02.1991","DF","Udinese (ITA)",182,13,1
+179,"LERAGER","12.07.1993","MF","Girondins Bordeaux (FRA)",186,4,0
+180,"SCHÖNE","27.05.1986","MF","Ajax (NED)",178,36,3
+181,"YURARY","15.06.1994","FW","RasenBallsport Leipzig (GER)",193,28,4
+182,"CORNELIUS","16.03.1993","FW","Atalanta Bergamo (ITA)",195,18,4
+183,"RØNNOW","04.08.1992","GK","Brøndby IF (DEN)",190,6,0
+184,"SISTO","04.02.1995","FW","Celta (ESP)",173,14,1
+185,"ELHADARY","15.01.1973","GK","Al Taawoun Football Club (KSA)",190,158,0
+186,"ALI GABR","01.01.1989","DF","West Bromwich Albion FC (ENG)",191,22,1
+187,"ELMOHAMADY","09.09.1987","DF","Aston Villa (ENG)",183,84,2
+188,"O. GABER","30.01.1992","MF","Los Angeles Football Club (USA)",175,24,0
+189,"MORSY","10.09.1991","MF","Wigan Athletic (ENG)",173,5,0
+190,"A. HEGAZY","25.01.1991","DF","West Bromwich Albion FC (ENG)",194,45,1
+191,"A. FATHI","10.11.1984","DF","Al Ahly Cairo (EGY)",176,128,3
+192,"TAREK HAMED","24.10.1988","MF","Zamalek (EGY)",169,23,0
+193,"MARWAN","26.02.1989","FW","Al Ahly Cairo (EGY)",185,22,4
+194,"M SALAH","15.06.1992","FW","Liverpool (ENG)",175,56,35
+195,"M. KAHRABA","13.04.1994","FW","Al Ittihad (Jeddah) (KSA)",182,22,3
+196,"A. ASHRAF","09.04.1991","DF","Al Ahly Cairo (EGY)",176,3,1
+197,"ABDELSHAFY","01.07.1985","DF","Al Fath (KSA)",171,52,2
+198,"RAMADAN","23.01.1997","FW","Stoke (ENG)",183,25,1
+199,"M. HAMDY","01.06.1995","DF","Zamalek (EGY)",173,1,0
+200,"EKRAMY","10.07.1983","GK","Al Ahly Cairo (EGY)",193,23,0
+201,"M. ELNENY","11.07.1992","MF","Arsenal (ENG)",181,61,5
+202,"SHIKABALA","05.03.1986","FW","Al-Raed Sports Club (KSA)",183,32,2
+203,"ABDALLA","13.07.1985","MF","Kuopion Palloseura (FIN)",176,38,6
+204,"S. SAMIR","01.04.1989","DF","Al Masry (EGY)",183,11,0
+205,"M. TREZEGUET","01.10.1994","MF","Kasimpasa SK (TUR)",181,26,2
+206,"WARDA","17.09.1993","FW","Atromitos FC (GRE)",179,17,0
+207,"M. ELSHENAWY","18.12.1988","GK","Al Ahly Cairo (EGY)",191,3,0
+208,"PICKFORD","07.03.1994","GK","Everton (ENG)",185,3,0
+209,"WALKER","28.05.1990","DF","Manchester City (ENG)",178,35,0
+210,"ROSE","02.07.1990","DF","Tottenham Hotspur (ENG)",173,18,0
+211,"DIER","15.01.1994","MF","Tottenham Hotspur (ENG)",188,26,3
+212,"STONES","28.05.1994","DF","Manchester City (ENG)",188,26,0
+213,"MAGUIRE","05.03.1993","DF","Leicester (ENG)",193,5,0
+214,"LINGARD","15.12.1992","MF","Manchester United (ENG)",175,12,1
+215,"HENDERSON","17.06.1990","MF","Liverpool (ENG)",183,39,0
+216,"KANE","28.07.1993","FW","Tottenham Hotspur (ENG)",188,24,13
+217,"STERLING","08.12.1994","FW","Manchester City (ENG)",170,38,2
+218,"VARDY","11.01.1987","FW","Leicester (ENG)",178,22,7
+219,"TRIPPIER","19.09.1990","DF","Tottenham Hotspur (ENG)",178,7,0
+220,"BUTLAND","10.03.1993","GK","Stoke (ENG)",196,8,0
+221,"WELBECK","26.11.1990","FW","Arsenal (ENG)",184,39,16
+222,"CAHILL","19.12.1985","DF","Chelsea (ENG)",191,60,5
+223,"JONES","21.02.1992","DF","Manchester United (ENG)",182,25,0
+224,"DELPH","21.11.1989","DF","Manchester City (ENG)",174,11,0
+225,"YOUNG","09.07.1985","DF","Manchester United (ENG)",175,34,7
+226,"RASHFORD","31.10.1997","FW","Manchester United (ENG)",180,19,3
+227,"DELE","11.04.1996","MF","Tottenham Hotspur (ENG)",188,25,2
+228,"LOFTUS-CHEEK","23.01.1996","MF","Chelsea (ENG)",190,4,0
+229,"ALEXANDER-ARNOLD","07.10.1998","DF","Liverpool (ENG)",175,1,0
+230,"POPE","19.04.1992","GK","Burnley (ENG)",191,1,0
+231,"LLORIS","26.12.1986","GK","Tottenham Hotspur (ENG)",188,98,0
+232,"PAVARD","28.03.1996","DF","VfB Stuttgart (GER)",186,6,0
+233,"KIMPEMBE","13.08.1995","DF","Paris Saint-Germain (FRA)",182,2,0
+234,"VARANE","25.04.1993","DF","Real Madrid (ESP)",191,42,2
+235,"UMTITI","14.11.1993","DF","FC Barcelona (ESP)",183,19,2
+236,"POGBA","15.03.1993","MF","Manchester United (ENG)",191,54,9
+237,"GRIEZMANN","21.03.1991","FW","Atlético Madrid (ESP)",174,54,20
+238,"LEMAR","12.11.1995","FW","AS Monaco (FRA)",172,12,3
+239,"GIROUD","30.09.1986","FW","Chelsea (ENG)",193,74,31
+240,"MBAPPE","20.12.1998","FW","Paris Saint-Germain (FRA)",178,15,4
+241,"DEMBELE","15.05.1997","FW","FC Barcelona (ESP)",178,12,2
+242,"TOLISSO","03.08.1994","MF","Bayern München (GER)",180,9,0
+243,"KANTE","29.03.1991","MF","Chelsea (ENG)",168,24,1
+244,"MATUIDI","09.04.1987","MF","Juventus (ITA)",180,67,9
+245,"NZONZI","15.12.1988","MF","Sevilla FC (ESP)",197,4,0
+246,"MANDANDA","28.03.1985","GK","Olympique Marseille (FRA)",187,27,0
+247,"RAMI","27.12.1985","DF","Olympique Marseille (FRA)",190,35,1
+248,"FEKIR","18.07.1993","FW","Olympique Lyon (FRA)",173,12,2
+249,"SIDIBE","29.07.1992","DF","AS Monaco (FRA)",184,17,1
+250,"THAUVIN","26.01.1993","FW","Olympique Marseille (FRA)",180,4,0
+251,"HERNANDEZ","14.02.1996","DF","Atlético Madrid (ESP)",183,5,0
+252,"MENDY","17.07.1994","DF","Manchester City (ENG)",183,7,0
+253,"AREOLA","27.02.1993","GK","Paris Saint-Germain (FRA)",195,0,0
+254,"NEUER","27.03.1986","GK","Bayern München (GER)",193,76,0
+255,"PLATTENHARDT","26.01.1992","DF","Hertha BSC (GER)",181,6,0
+256,"HECTOR","27.05.1990","DF","1. FC Köln (GER)",185,38,3
+257,"GINTER","19.01.1994","DF","Borussia Moenchengladbach (GER)",189,18,0
+258,"HUMMELS","16.12.1988","DF","Bayern München (GER)",192,64,5
+259,"KHEDIRA","04.04.1987","MF","Juventus (ITA)",189,75,7
+260,"DRAXLER","20.09.1993","MF","Paris Saint-Germain (FRA)",185,44,6
+261,"KROOS","04.01.1990","MF","Real Madrid (ESP)",182,83,12
+262,"WERNER","06.03.1996","FW","RasenBallsport Leipzig (GER)",181,14,8
+263,"ÖZIL","15.10.1988","MF","Arsenal (ENG)",180,90,23
+264,"REUS","31.05.1989","FW","Borussia Dortmund (GER)",180,31,9
+265,"TRAPP","08.07.1990","GK","Paris Saint-Germain (FRA)",189,3,0
+266,"MÜLLER","13.09.1989","MF","Bayern München (GER)",186,91,38
+267,"GORETZKA","06.02.1995","MF","Schalke 04 (GER)",189,15,6
+268,"SÜLE","03.09.1995","DF","Bayern München (GER)",195,11,0
+269,"RÜDIGER","03.03.1993","DF","Chelsea (ENG)",191,24,1
+270,"BOATENG","03.09.1988","DF","Bayern München (GER)",192,71,1
+271,"KIMMICH","08.02.1995","DF","Bayern München (GER)",176,29,3
+272,"RUDY","28.02.1990","MF","Bayern München (GER)",179,25,1
+273,"BRANDT","02.05.1996","MF","Bayer Leverkusen (GER)",183,16,1
+274,"GÜNDOGAN","24.10.1990","MF","Manchester City (ENG)",180,26,4
+275,"TER STEGEN","30.04.1992","GK","FC Barcelona (ESP)",187,20,0
+276,"GOMEZ","10.07.1985","FW","VfB Stuttgart (GER)",189,75,31
+277,"HALLDORSSON","27.04.1984","GK","Randers FC (DEN)",193,49,0
+278,"SÆVARSSON","11.11.1984","DF","Valur (ISL)",186,79,1
+279,"FRIDJÓNSSON","22.02.1996","MF","Vålerenga Fotball (NOR)",185,4,1
+280,"A. GUDMUNDSSON","15.06.1997","MF","PSV (NED)",177,5,3
+281,"INGASON","05.08.1993","DF","FK Rostov (RUS)",188,20,3
+282,"R. SIGURDSSON","19.06.1986","DF","FK Rostov (RUS)",187,77,3
+283,"J. GUDMUNDSSON","27.10.1990","MF","Burnley (ENG)",179,67,7
+284,"BJARNASON","27.05.1988","MF","Aston Villa (ENG)",183,67,9
+285,"SIGURDARSON","26.02.1991","FW","FK Rostov (RUS)",187,13,1
+286,"G. SIGURDSSON","08.09.1989","MF","Everton (ENG)",186,57,19
+287,"FINNBOGASON","01.02.1989","FW","FC Augsburg (GER)",185,47,13
+288,"SCHRAM","19.01.1995","GK","Roskilde BK (DEN)",198,4,0
+289,"RÚNARSSON","18.02.1995","GK","FC Nordsjælland (DEN)",186,3,0
+290,"ÁRNASON","13.10.1982","DF","Aberdeen (SCO)",191,67,5
+291,"EYJÓLFSSON","06.08.1990","DF","Levski Sofia (BUL)",188,10,1
+292,"Ó. SKÚLASON","01.04.1983","MF","Karabukspor (TUR)",184,36,1
+293,"GUNNARSSON","22.04.1989","MF","Cardiff City (WAL)",181,77,2
+294,"MAGNÚSSON","11.02.1993","DF","Bristol City (ENG)",191,16,2
+295,"GÍSLASON","25.02.1988","MF","SV Sandhausen (GER)",184,47,3
+296,"HALLFREDSSON","29.06.1984","MF","Udinese (ITA)",186,64,1
+297,"TRAUSTASON","30.04.1993","MF","Malmö FF (SWE)",183,19,5
+298,"BÖDVARSSON","25.05.1992","FW","Reading (ENG)",189,38,2
+299,"A. SKÚLASON","14.05.1987","DF","Lokeren (BEL)",170,56,0
+300,"A. BEIRANVAND","21.09.1992","GK","Persepolis Football Club (IRN)",194,22,0
+301,"M. TORABI","10.09.1994","MF","Saipa (IRN)",185,15,4
+302,"HAJI SAFI","25.02.1990","DF","Olympiacos (GRE)",178,94,6
+303,"R. CHESHMI","24.07.1993","DF","Esteghlal Tehran (IRN)",192,9,1
+304,"M. MOHAMMADI","29.09.1993","DF","FC Akhmat Grozny (RUS)",178,19,0
+305,"S. EZATOLAHI","01.10.1996","MF","FK Amkar Perm (RUS)",190,25,2
+306,"SHOJAEI. M","09.06.1984","MF","AEK Athinai (GRE)",187,74,8
+307,"M. POURALIGANJI","19.04.1992","DF","Al Sadd (QAT)",187,27,2
+308,"OMID","16.09.1987","MF","Esteghlal Tehran (IRN)",178,29,0
+309,"KARIM","03.04.1990","FW","Olympiacos (GRE)",187,64,18
+310,"V. AMIRI","02.04.1988","MF","Persepolis Football Club (IRN)",179,35,1
+311,"RASHID","18.05.1989","GK","Zob Ahan Isfahan FC (IRN)",192,3,0
+312,"M.R. KHANZADEH","11.05.1991","DF","Padideh Khorasan Football Club(IRN)",186,8,1
+313,"GHODDOS","06.09.1993","FW","IFK Östersund FK (SWE)",177,7,1
+314,"P. MONTAZERI","06.09.1983","DF","Esteghlal Tehran (IRN)",185,46,1
+315,"REZA","20.09.1987","FW","sc Heerenveen (NED)",180,43,17
+316,"MEHDI","18.07.1992","FW","Al Gharrafa (QAT)",187,26,11
+317,"A. JAHANBAKHSH","11.08.1993","FW","AZ (NED)",180,38,4
+318,"M. HOSSEINI","20.06.1996","DF","Esteghlal Tehran (IRN)",183,1,0
+319,"SARDAR","01.01.1995","FW","Rubin Kazan (RUS)",186,32,23
+320,"DEJAGAH","05.07.1986","FW","Nottingham Forest FC (ENG)",181,45,9
+321,"ABEDZADEH","26.04.1993","GK","CS Marítimo (POR)",186,1,0
+322,"RAMIN","21.03.1990","DF","KV Oostende (BEL)",185,26,2
+323,"KAWASHIMA","20.03.1983","GK","FC Metz (FRA)",185,84,0
+324,"UEDA","24.10.1994","DF","Kashima Antlers (JPN)",186,4,0
+325,"SHOJI","11.12.1992","DF","Kashima Antlers (JPN)",182,12,1
+326,"HONDA","13.06.1986","MF","CF Pachuca (MEX)",182,95,36
+327,"NAGATOMO","12.09.1986","DF","Galatasaray (TUR)",170,105,3
+328,"ENDO","09.02.1993","DF","Urawa Reds (JPN)",178,12,0
+329,"SHIBASAKI","28.05.1992","MF","Getafe CF (ESP)",175,18,3
+330,"HARAGUCHI","09.05.1991","MF","Fortuna Duesseldorf (GER)",178,33,6
+331,"OKAZAKI","16.04.1986","FW","Leicester (ENG)",174,113,50
+332,"KAGAWA","17.03.1989","MF","Borussia Dortmund (GER)",175,92,30
+333,"USAMI","06.05.1992","MF","Fortuna Duesseldorf (GER)",178,24,3
+334,"HIGASHIGUCHI","12.05.1986","GK","Gamba Osaka (JPN)",184,5,0
+335,"MUTO","15.07.1992","FW","Mainz 05 (GER)",179,23,2
+336,"INUI","02.06.1988","MF","Eibar (ESP)",169,27,4
+337,"OSAKO","18.05.1990","FW","1. FC Köln (GER)",182,29,7
+338,"YAMAGUCHI","06.10.1990","MF","Cerezo Osaka (JPN)",173,42,2
+339,"HASEBE","18.01.1984","MF","Eintracht Frankfurt (GER)",180,110,2
+340,"OHSHIMA","23.01.1993","MF","Kawasaki Frontale (JPN)",168,5,0
+341,"H. SAKAI","12.04.1990","DF","Olympique Marseille (FRA)",183,43,0
+342,"MAKINO","11.05.1987","DF","Urawa Reds (JPN)",182,32,4
+343,"G. SAKAI","14.03.1991","DF","Hamburger SV (GER)",176,41,0
+344,"YOSHIDA","24.08.1988","DF","Southampton (ENG)",189,82,10
+345,"NAKAMURA","27.02.1995","GK","Kashiwa Reysol (JPN)",184,4,0
+346,"S G KIM","30.09.1990","GK","Vissel Kobe (JPN)",187,33,0
+347,"Y LEE","24.12.1986","DF","Jeonbuk Motors (KOR)",180,28,0
+348,"S H JUNG","03.04.1994","DF","Sagan Tosu Football Club (JPN)",188,6,0
+349,"B S OH","20.05.1988","DF","Jeju United (KOR)",189,2,0
+350,"Y S YUN","04.10.1988","DF","Seongnam Ilhwa Chunma (KOR)",185,6,0
+351,"J H PARK","16.01.1987","DF","Ulsan Hyundai (KOR)",174,36,0
+352,"H M SON","08.07.1992","FW","Tottenham Hotspur (ENG)",183,67,21
+353,"S J JU","30.10.1990","MF","Asan Mugunghwa Football Club(KOR)",176,10,1
+354,"S W KIM","14.04.1988","FW","Jeonbuk Motors (KOR)",197,50,10
+355,"Seungwoo S W LEE","06.01.1998","MF","Verona (ITA)",170,4,0
+356,"Hee Chan H C HWANG","26.01.1996","FW","Red Bull Salzburg (AUT)",177,14,2
+357,"Minwoo M W KIM","25.02.1990","DF","Sangmu (KOR)",172,20,1
+358,"Jacheol J C KOO","27.02.1989","MF","FC Augsburg (GER)",182,68,19
+359,"Chul C HONG","17.09.1990","DF","Sangmu (KOR)",176,14,0
+360,"Wooyoung W Y JUNG","14.12.1989","MF","Vissel Kobe (JPN)",186,29,1
+361,"Sungyueng S Y KI","24.01.1989","MF","Swansea City (WAL)",186,102,10
+362,"Jaesung J S LEE","10.08.1992","MF","Jeonbuk Motors (KOR)",180,35,6
+363,"Seon Min S M MOON","09.06.1992","MF","Incheon United (KOR)",172,3,1
+364,"Younggwon Y G KIM","27.02.1990","DF","Guangzhou Evergrande Taobao FC(CHN)",184,53,2
+365,"Hyunsoo H S JANG","28.09.1991","DF","FC Tokyo (JPN)",187,51,3
+366,"Jinhyeon J H KIM","06.07.1987","GK","Cerezo Osaka (JPN)",193,15,0
+367,"Yohan Y H GO","10.03.1988","DF","FC Seoul (KOR)",170,19,0
+368,"Hyeonwoo H W JO","25.09.1991","GK","Daegu FC (KOR)",189,6,0
+369,"J. CORONA","26.01.1981","GK","Cruz Azul (MEX)",182,54,0
+370,"H. AYALA","31.03.1987","DF","Tigres (MEX)",188,43,1
+371,"C. SALCEDO","29.09.1993","DF","Eintracht Frankfurt (GER)",189,21,0
+372,"R. MÁRQUEZ","13.02.1979","DF","Atlas (MEX)",184,145,15
+373,"J. DOS SANTOS","26.04.1990","MF","LA Galaxy (USA)",173,37,0
+374,"M. LAYÚN","25.06.1988","MF","Sevilla FC (ESP)",180,64,6
+375,"M. FABIÁN","21.07.1989","FW","Eintracht Frankfurt (GER)",171,39,9
+376,"RAÚL","05.05.1991","FW","Benfica (POR)",188,63,14
+377,"G. DOS SANTOS","11.05.1989","MF","LA Galaxy (USA)",178,105,19
+378,"CARLOS V","01.03.1989","FW","Los Angeles Football Club (USA)",178,26,10
+379,"A. TALAVERA","18.09.1982","GK","Toluca (MEX)",188,28,0
+380,"G. OCHOA","13.07.1985","GK","Standard Liège (BEL)",185,94,0
+381,"J. HERNÁNDEZ","01.06.1988","FW","West Ham United (ENG)",175,102,49
+382,"H. MORENO","17.01.1988","DF","Real Sociedad (ESP)",182,92,3
+383,"H. HERRERA","19.04.1990","DF","FC Porto (POR)",180,66,5
+384,"JESÚS C.","06.01.1993","MF","FC Porto (POR)",174,36,7
+385,"A. GUARDADO","28.09.1986","MF","Real Betis (ESP)",167,147,25
+386,"O. PERALTA","12.01.1984","FW","America (MEX)",178,66,26
+387,"J. AQUINO","11.02.1990","MF","Tigres (MEX)",166,53,0
+388,"E. ÁLVAREZ","24.10.1997","DF","America (MEX)",186,13,1
+389,"H. LOZANO","30.07.1995","FW","PSV (NED)",176,28,7
+390,"J. GALLARDO","15.08.1994","MF","Pumas UNAM (MEX)",177,23,0
+391,"BOUNOU","05.04.1991","GK","Girona Futbol Club (ESP)",190,34,0
+392,"HAKIMI","04.11.1998","DF","Real Madrid (ESP)",179,12,1
+393,"MENDYL","21.10.1997","DF","Lille OSC (FRA)",179,16,0
+394,"DA COSTA","06.05.1986","DF","Istanbul Başakşehir (TUR)",187,27,2
+395,"BENATIA","17.04.1987","DF","Juventus (ITA)",188,60,4
+396,"SAISS","26.03.1990","DF","Wolverhampton (ENG)",190,26,2
+397,"ZIYACH","19.03.1993","MF","Ajax (NED)",180,18,10
+398,"EL AHMADI","27.01.1985","MF","Feyenoord (NED)",179,52,1
+399,"EL KAABI","25.06.1993","FW","RS Berkane (MAR)",182,3,2
+400,"BELHANDA","25.02.1990","MF","Galatasaray (TUR)",174,50,5
+401,"FAJR","01.08.1988","MF","Getafe CF (ESP)",178,24,2
+402,"EL KAJOUI","10.05.1989","GK","Numancia (ESP)",190,33,0
+403,"BOUTAIB","24.04.1987","FW","Malatyaspor (TUR)",190,20,9
+404,"BOUSSOUFA","15.08.1984","MF","Al Jazeira (UAE)",167,61,7
+405,"AIT BENNASSER","07.07.1996","MF","Caen (FRA)",184,14,0
+406,"N. AMRABAT","31.03.1987","MF","Leganes (ESP)",178,45,4
+407,"DIRAR","25.02.1986","DF","Fenerbahçe (TUR)",187,38,5
+408,"HARIT","18.06.1997","MF","Schalke 04 (GER)",179,7,0
+409,"EN-NESYRI","01.06.1997","FW","Malaga (ESP)",188,16,2
+410,"BOUHADDOUZ","30.03.1987","FW","St. Pauli (GER)",188,15,3
+411,"S. AMRABAT","21.08.1996","MF","Feyenoord (NED)",183,6,0
+412,"TAGNAOUTI","05.04.1996","GK","IRT Tanger (MAR)",186,5,0
+413,"CARCELA","01.07.1989","MF","Standard Liège (BEL)",176,21,1
+414,"EZENWA","16.10.1988","GK","Enyimba (NGA)",181,24,0
+415,"IDOWU","18.05.1992","DF","FK Amkar Perm (RUS)",179,5,0
+416,"ECHIEJILE","20.01.1988","DF","Cercle Brugge (BEL)",185,59,2
+417,"NDIDI","16.12.1996","MF","Leicester (ENG)",184,17,0
+418,"EKONG","01.09.1993","DF","Bursaspor (TUR)",191,21,1
+419,"BALOGUN","28.06.1988","DF","Mainz 05 (GER)",190,19,0
+420,"MUSA","14.10.1992","FW","CSKA Moskva (RUS)",173,70,13
+421,"ETEBO","09.11.1995","MF","Las Palmas (ESP)",174,12,1
+422,"IGHALO","16.06.1989","FW","Changchun Yatai (CHN)",188,19,4
+423,"MIKEL","22.04.1987","MF","Tianjin Teda (CHN)",188,82,6
+424,"MOSES","12.12.1990","FW","Chelsea (ENG)",177,31,11
+425,"SHEHU","12.03.1993","DF","Bursaspor (TUR)",182,15,0
+426,"NWANKWO","07.05.1992","FW","Crotone FC (ITA)",197,2,0
+427,"IHEANACHO","10.03.1996","FW","Leicester (ENG)",183,17,8
+428,"OBI","22.05.1991","MF","Torino (ITA)",177,17,0
+429,"AKPEYI","08.03.1986","GK","Chippa United FC (RSA)",187,6,0
+430,"ONAZI","25.12.1992","MF","Trabzonspor (TUR)",172,50,1
+431,"IWOBI","03.05.1996","FW","Arsenal (ENG)",185,18,5
+432,"OGU","20.04.1988","MF","Hapoel Beer Sheva (ISR)",191,19,2
+433,"AWAZIEM","01.01.1997","DF","Nantes (FRA)",192,3,0
+434,"EBUEHI","16.12.1995","DF","ADO Den Haag (NED)",187,7,0
+435,"OMERUO","17.10.1993","DF","Kasimpasa SK (TUR)",185,38,0
+436,"UZOHO","28.10.1998","GK","Deportivo La Coruña (ESP)",196,6,0
+437,"PENEDO","26.09.1981","GK","Dinamo Bucuresti (ROU)",183,131,0
+438,"MURILLO","11.02.1996","DF","New York (USA)",183,22,2
+439,"CUMMINGS","01.03.1992","DF","San Jose Earthquakes (USA)",183,47,0
+440,"ESCOBAR","09.01.1995","DF","New York (USA)",182,23,1
+441,"R. TORRES","20.03.1986","DF","Seattle Sounders Football Club(USA)",188,108,10
+442,"GOMEZ","29.05.1984","MF","Bucaramanga (COL)",183,142,11
+443,"PEREZ","13.03.1981","FW","Municipal (GUA)",187,117,43
+444,"BARCENAS","23.10.1993","MF","Cafetaleros de Tapachula (MEX)",175,29,0
+445,"G. TORRES","31.10.1988","FW","Huachipato (CHI)",180,72,14
+446,"DIAZ","12.05.1997","FW","Deportivo La Coruña (ESP)",181,8,2
+447,"COOPER","26.11.1987","MF","Universidad de Chile (CHI)",173,97,7
+448,"CALDERON","14.08.1985","GK","Chorrillo (PAN)",187,32,0
+449,"MACHADO","14.02.1985","DF","Houston Dynamo (USA)",182,76,1
+450,"PIMENTEL","30.05.1991","MF","Plaza Amador (PAN)",189,23,1
+451,"DAVIS","31.03.1991","DF","DAC Dunajska Streda (SVK)",180,38,0
+452,"ARROYO","13.12.1993","FW","Alajuelense (CRC)",183,33,5
+453,"OVALLE","07.09.1988","DF","Olimpia (HON)",178,25,0
+454,"TEJADA","28.03.1982","FW","Sport Boys Association (PER)",183,104,43
+455,"AVILA","04.02.1997","MF","AA Gent (BEL)",182,5,0
+456,"GODOY","10.02.1990","MF","San Jose Earthquakes (USA)",183,88,1
+457,"J. RODRIGUEZ","19.06.1998","MF","AA Gent (BEL)",180,2,0
+458,"RODRIGUEZ","05.08.1990","GK","San Francisco (PAN)",197,6,0
+459,"BALOY","24.02.1981","DF","Municipal (GUA)",185,100,3
+460,"GALLESE","23.02.1990","GK","Veracruz (MEX)",189,39,0
+461,"RODRIGUEZ","31.03.1984","DF","Junior (COL)",179,73,0
+462,"CORZO","20.05.1989","DF","Universitario (PER)",172,24,0
+463,"SANTAMARIA","10.01.1992","DF","Puebla FC (MEX)",183,6,0
+464,"ARAUJO","24.10.1994","DF","Alianza Lima (PER)",178,8,0
+465,"TRAUCO","25.08.1992","DF","Flamengo (BRA)",169,26,0
+466,"HURTADO","27.07.1990","MF","Guimaraes (POR)",174,33,3
+467,"CUEVA","23.11.1991","MF","São Paulo (BRA)",169,45,8
+468,"GUERRERO","01.01.1984","FW","Flamengo (BRA)",185,89,35
+469,"FARFAN","26.10.1984","FW","Lokomotiv Moskva (RUS)",177,84,25
+470,"RUIDIAZ","25.07.1990","FW","Monarcas Morelia (MEX)",169,30,4
+471,"CACEDA","27.09.1991","GK","Deportivo Municipal (PER)",184,6,0
+472,"TAPIA","28.07.1995","MF","Feyenoord (NED)",185,31,3
+473,"POLO","29.09.1994","MF","Portland Timbers (USA)",174,17,1
+474,"RAMOS","04.11.1988","DF","Veracruz (MEX)",182,70,3
+475,"CARTAGENA","23.09.1994","MF","Veracruz (MEX)",179,3,0
+476,"ADVINCULA","02.03.1990","DF","Universidad Autónoma de Puebla(MEX)",178,65,0
+477,"CARRILLO","14.06.1991","FW","Watford (ENG)",182,46,5
+478,"YOTUN","07.04.1990","MF","Orlando City SC (USA)",172,73,2
+479,"FLORES","14.05.1994","FW","AaB (DEN)",170,29,9
+480,"CARVALLO","01.03.1986","GK","Universidad Técnica (PER)",182,6,0
+481,"LOYOLA","26.10.1994","DF","Foot Ball Club Melgar (PER)",179,3,0
+482,"AQUINO","13.04.1995","MF","Universidad Autónoma de Puebla(MEX)",174,13,0
+483,"SZCZESNY","18.04.1990","GK","Juventus (ITA)",195,35,0
+484,"PAZDAN","21.09.1987","DF","Legia Warszawa (POL)",181,33,0
+485,"JEDRZEJCZYK","04.11.1987","DF","Legia Warszawa (POL)",189,36,3
+486,"CIONEK","21.04.1986","DF","Spal Ferrara (ITA)",184,19,0
+487,"BEDNAREK","12.04.1996","DF","Southampton (ENG)",189,3,0
+488,"MACZYNSKI","23.05.1987","MF","Legia Warszawa (POL)",175,0,0
+489,"GORALSKI","21.09.1992","MF","PFC Ludogorets Razgrad (BUL)",172,5,0
+490,"MILIK","28.02.1994","FW","SSC Napoli (ITA)",186,40,12
+491,"LINETTY","02.02.1995","MF","Sampdoria (ITA)",176,20,1
+492,"LEWANDOWSKI","21.08.1988","FW","Bayern München (GER)",185,95,55
+493,"KRYCHOWIAK","29.01.1990","MF","West Bromwich Albion FC (ENG)",186,51,2
+494,"GROSICKI","08.06.1988","MF","Hull City (ENG)",180,57,12
+495,"BIALKOWSKI","06.07.1987","GK","Ipswich Town (ENG)",194,1,0
+496,"RYBUS","19.08.1989","MF","Lokomotiv Moskva (RUS)",173,51,2
+497,"TEODORCZYK","03.06.1991","FW","Anderlecht (BEL)",185,17,4
+498,"GLIK","03.02.1988","DF","AS Monaco (FRA)",190,58,4
+499,"BLASZCZYKOWSKI","14.12.1985","MF","VfL Wolfsburg (GER)",175,99,20
+500,"PESZKO","19.02.1985","MF","Lechia Gdansk (POL)",173,43,2
+501,"BERESZYNSKI","12.07.1992","DF","Sampdoria (ITA)",182,8,0
+502,"ZIELINSKI","20.05.1994","MF","SSC Napoli (ITA)",177,33,5
+503,"PISZCZEK","03.06.1985","DF","Borussia Dortmund (GER)",184,63,3
+504,"KURZAWA","29.01.1993","MF","Górnik Zabrze (POL)",182,3,0
+505,"FABIANSKI","18.04.1985","GK","Swansea City (WAL)",190,45,0
+506,"KOWNACKI","14.03.1997","FW","Sampdoria (ITA)",185,2,1
+507,"RUI PATRICIO","15.02.1988","GK","Sporting CP (POR)",189,69,0
+508,"B. ALVES","27.11.1981","DF","Rangers (SCO)",187,96,11
+509,"PEPE","26.02.1983","DF","Besiktas (TUR)",188,95,5
+510,"M. FERNANDES","05.02.1986","MF","Lokomotiv Moskva (RUS)",174,14,3
+511,"RAPHAEL","22.12.1993","DF","Borussia Dortmund (GER)",170,24,2
+512,"FONTE","22.12.1983","DF","Dalian Yifang Football Club (CHN)",191,31,0
+513,"RONALDO","05.02.1985","FW","Real Madrid (ESP)",185,150,81
+514,"J. MOUTINHO","08.09.1986","MF","AS Monaco (FRA)",170,110,7
+515,"ANDRÉ SILVA","06.11.1995","FW","AC Milan (ITA)",184,22,12
+516,"J. MÁRIO","19.01.1993","MF","West Ham United (ENG)",179,36,2
+517,"BERNARDO","10.08.1994","MF","Manchester City (ENG)",173,25,2
+518,"LOPES","01.10.1990","GK","Olympique Lyon (FRA)",184,7,0
+519,"RUBEN DIAS","14.05.1997","DF","Benfica (POR)",187,1,0
+520,"WILLIAM","07.04.1992","MF","Sporting CP (POR)",190,43,2
+521,"RICARDO","06.10.1993","DF","FC Porto (POR)",174,4,0
+522,"B. FERNANDES","08.09.1994","MF","Sporting CP (POR)",183,6,1
+523,"G. GUEDES","29.11.1996","FW","Valencia CF (ESP)",179,10,3
+524,"GELSON","11.05.1995","FW","Sporting CP (POR)",173,18,0
+525,"MÁRIO RUI","27.05.1991","DF","SSC Napoli (ITA)",168,4,0
+526,"QUARESMA","26.09.1983","FW","Besiktas (TUR)",175,77,9
+527,"CÉDRIC","31.08.1991","DF","Southampton (ENG)",172,29,1
+528,"BETO","01.05.1982","GK","Goztepespor (TUR)",183,14,0
+529,"ADRIEN","15.03.1989","MF","Leicester (ENG)",176,24,1
+530,"AKINFEEV","08.04.1986","GK","CSKA Moskva (RUS)",185,107,0
+531,"FERNANDES","19.09.1990","DF","CSKA Moskva (RUS)",187,6,0
+532,"KUTEPOV","29.07.1993","DF","Spartak Moskva (RUS)",190,8,0
+533,"IGNASHEVICH","14.07.1979","DF","CSKA Moskva (RUS)",186,123,9
+534,"SEMENOV","24.03.1989","DF","FC Akhmat Grozny (RUS)",191,6,0
+535,"CHERYSHEV","26.12.1990","MF","Villarreal CF (ESP)",173,12,2
+536,"KUZIAEV","15.01.1993","MF","Zenit St. Petersburg (RUS)",182,7,0
+537,"GAZINSKII","20.07.1989","MF","Krasnodar (RUS)",180,7,1
+538,"DZAGOEV","17.06.1990","MF","CSKA Moskva (RUS)",178,58,9
+539,"SMOLOV","09.02.1990","FW","Krasnodar (RUS)",185,33,12
+540,"ZOBNIN","11.02.1994","MF","Spartak Moskva (RUS)",185,13,0
+541,"LUNEV","13.11.1991","GK","Zenit St. Petersburg (RUS)",189,3,0
+542,"KUDRIASHOV","05.04.1987","DF","Rubin Kazan (RUS)",187,19,0
+543,"GRANAT","22.05.1987","DF","Rubin Kazan (RUS)",184,12,1
+544,"AL MIRANCHUK","17.10.1995","MF","Lokomotiv Moskva (RUS)",185,18,4
+545,"AN MIRANCHUK","17.10.1995","MF","Lokomotiv Moskva (RUS)",182,6,0
+546,"GOLOVIN","30.05.1996","MF","CSKA Moskva (RUS)",178,20,3
+547,"ZHIRKOV","20.08.1983","MF","Zenit St. Petersburg (RUS)",180,85,2
+548,"SAMEDOV","19.07.1984","MF","Spartak Moskva (RUS)",178,49,7
+549,"GABULOV","19.10.1983","GK","Club Brugge (BEL)",190,10,0
+550,"EROKHIN","13.10.1989","MF","Zenit St. Petersburg (RUS)",191,17,0
+551,"DZYUBA","22.08.1988","FW","Arsenal Tula (RUS)",196,24,12
+552,"SMOLNIKOV","08.08.1988","DF","Zenit St. Petersburg (RUS)",179,27,0
+553,"ABDULLAH","23.01.1987","GK","Al Hilal (KSA)",178,9,0
+554,"MANSOUR","19.10.1987","DF","Al Ahli (KSA)",173,39,1
+555,"OSAMA","31.03.1984","DF","Al Hilal (KSA)",188,136,7
+556,"ALI","21.11.1989","DF","Al Hilal (KSA)",182,4,0
+557,"OMAR","27.09.1985","DF","Al Nasr (KSA)",185,41,3
+558,"ALBURAYK","15.09.1992","DF","Al Hilal (KSA)",173,10,0
+559,"SALMAN","01.08.1989","MF","Al Hilal (KSA)",179,40,2
+560,"YAHIA","26.06.1990","MF","Leganes (ESP)",165,57,7
+561,"HATAN","16.07.1992","MF","Al Shabab (KSA)",170,6,0
+562,"ALSAHLAWI","10.01.1987","FW","Al Nasr (KSA)",179,41,28
+563,"ABDULMALEK","13.03.1986","MF","Al Hilal (KSA)",177,33,0
+564,"KANNO","22.09.1994","MF","Al Hilal (KSA)",192,6,1
+565,"YASSER","25.05.1992","DF","Al Hilal (KSA)",170,36,0
+566,"OTAYF","03.08.1992","MF","Al Hilal (KSA)",177,14,1
+567,"ALKHAIBARI","16.08.1996","MF","Al Shabab (KSA)",175,5,0
+568,"HUSSAIN","24.03.1988","MF","Al Ahli (KSA)",174,16,1
+569,"TAISEER","25.07.1984","MF","Al Ahli (KSA)",169,133,19
+570,"SALEM","19.08.1991","MF","Villarreal CF (ESP)",174,32,4
+571,"FAHAD","14.09.1994","FW","Levante UD (ESP)",168,46,10
+572,"MUHANNAD","14.10.1986","FW","Al Ahli (KSA)",185,18,4
+573,"ALMOSAILEM","27.02.1984","GK","Al Ahli (KSA)",186,32,0
+574,"ALOWAIS","10.10.1991","GK","Al Ahli (KSA)",187,6,0
+575,"MOTAZ","17.02.1992","DF","Al Ahli (KSA)",180,16,0
+576,"DIALLO","30.03.1992","GK","Rennes (FRA)",189,16,0
+577,"CISS","15.06.1989","DF","Valenciennes (FRA)",173,18,0
+578,"KOULIBALY","20.06.1991","DF","SSC Napoli (ITA)",195,26,1
+579,"KARA","22.11.1989","DF","Anderlecht (BEL)",192,43,5
+580,"GANA","26.09.1989","MF","Everton (ENG)",174,55,1
+581,"S. SANE","25.08.1990","MF","Hannover 96 (GER)",196,18,0
+582,"SOW","19.01.1986","FW","Bursaspor (TUR)",180,46,19
+583,"C. KOUYATE","21.12.1989","MF","West Ham United (ENG)",189,48,3
+584,"M. DIOUF","16.12.1987","FW","Stoke (ENG)",185,44,10
+585,"MANE","10.04.1992","FW","Liverpool (ENG)",175,52,14
+586,"CH. NDOYE","29.03.1986","MF","Birmingham City (ENG)",192,27,3
+587,"SABALY","05.03.1993","DF","Girondins Bordeaux (FRA)",174,6,0
+588,"A. NDIAYE","06.03.1990","MF","Wolverhampton (ENG)",186,16,1
+589,"KONATE","03.04.1993","FW","Amiens (FRA)",180,26,9
+590,"SAKHO","24.12.1989","FW","Rennes (FRA)",184,11,3
+591,"KH. NDIAYE","05.04.1985","GK","Horoya Athlétique Club (GUI)",185,42,0
+592,"P.A. NDIAYE","27.10.1990","MF","Stoke (ENG)",181,16,1
+593,"ISMAÏLA","25.02.1998","FW","Rennes (FRA)",175,13,3
+594,"NIANG","19.12.1994","FW","Torino (ITA)",184,8,0
+595,"KEÏTA BALDE","08.03.1995","FW","AS Monaco (FRA)",181,18,3
+596,"GASSAMA","20.10.1989","DF","Adanaspor (TUR)",181,39,0
+597,"M. WAGUE","04.10.1998","DF","Eupen (BEL)",177,7,0
+598,"GOMIS","05.09.1993","GK","Spal Ferrara (ITA)",196,5,0
+599,"STOJKOVIĆ","28.07.1983","GK","Partizan Beograd (SRB)",195,81,0
+600,"RUKAVINA","26.01.1984","DF","Villarreal CF (ESP)",177,47,0
+601,"TOŠIĆ","19.01.1985","DF","Besiktas (TUR)",185,24,1
+602,"MILIVOJEVIĆ","07.04.1991","MF","Crystal Palace (ENG)",186,28,1
+603,"SPAJIĆ","13.02.1993","DF","Anderlecht (BEL)",188,5,0
+604,"IVANOVIĆ","22.02.1984","DF","Zenit St. Petersburg (RUS)",185,103,13
+605,"ŽIVKOVIĆ","11.07.1996","MF","Benfica (POR)",169,10,0
+606,"PRIJOVIĆ","21.04.1990","FW","PAOK (GRE)",191,9,1
+607,"MITROVIĆ","16.09.1994","FW","Fulham (ENG)",189,38,16
+608,"TADIĆ","20.11.1988","MF","Southampton (ENG)",181,53,12
+609,"KOLAROV","10.11.1985","DF","AS Roma (ITA)",187,76,10
+610,"RAJKOVIĆ","31.10.1995","GK","Maccabi Tel Aviv (ISR)",191,8,0
+611,"VELJKOVIĆ","26.09.1995","DF","Werder Bremen (GER)",188,2,0
+612,"RODIĆ","02.04.1991","DF","Crvena Zvezda (SRB)",185,1,0
+613,"MILENKOVIĆ","12.10.1997","DF","Fiorentina (ITA)",195,3,0
+614,"GRUJIĆ","13.04.1996","MF","Cardiff City (WAL)",190,7,0
+615,"KOSTIĆ","01.11.1992","MF","Hamburger SV (GER)",184,23,2
+616,"RADONJIĆ","15.02.1996","FW","Crvena Zvezda (SRB)",185,3,0
+617,"JOVIĆ","23.12.1997","FW","Eintracht Frankfurt (GER)",181,1,0
+618,"SERGEJ","27.02.1995","MF","Lazio (ITA)",192,4,0
+619,"MATIĆ","01.08.1988","MF","Manchester United (ENG)",194,40,2
+620,"LJAJIĆ","29.09.1991","MF","Torino (ITA)",182,30,6
+621,"DMITROVIĆ","24.01.1992","GK","Eibar (ESP)",194,2,0
+622,"DE GEA","07.11.1990","GK","Manchester United (ENG)",190,29,0
+623,"CARVAJAL","11.01.1992","DF","Real Madrid (ESP)",173,15,0
+624,"PIQUÉ","02.02.1987","DF","FC Barcelona (ESP)",194,98,5
+625,"NACHO","18.01.1990","DF","Real Madrid (ESP)",179,17,0
+626,"SERGIO","16.07.1988","MF","FC Barcelona (ESP)",189,103,2
+627,"A. INIESTA","11.05.1984","MF","FC Barcelona (ESP)",171,127,13
+628,"SAÚL","21.11.1994","MF","Atlético Madrid (ESP)",183,10,0
+629,"KOKE","08.01.1992","MF","Atlético Madrid (ESP)",176,40,0
+630,"RODRIGO M.","06.03.1991","FW","Valencia CF (ESP)",182,6,2
+631,"THIAGO","11.04.1991","MF","Bayern München (GER)",174,29,2
+632,"LUCAS V.","01.07.1991","FW","Real Madrid (ESP)",173,7,0
+633,"ODRIOZOLA","14.12.1995","DF","Real Sociedad (ESP)",178,4,1
+634,"ARRIZABALAGA","03.10.1994","GK","Athletic Club (ESP)",189,1,0
+635,"AZPILICUETA","28.08.1989","DF","Chelsea (ENG)",178,22,0
+636,"RAMOS","30.03.1986","DF","Real Madrid (ESP)",183,152,13
+637,"MONREAL","26.02.1986","DF","Arsenal (ENG)",179,22,1
+638,"IAGO ASPAS","01.08.1987","FW","Celta (ESP)",176,10,5
+639,"JORDI ALBA","21.03.1989","DF","FC Barcelona (ESP)",170,62,8
+640,"DIEGO COSTA","07.10.1988","FW","Atlético Madrid (ESP)",185,20,7
+641,"ASENSIO","21.01.1996","MF","Real Madrid (ESP)",182,12,0
+642,"SILVA","08.01.1986","FW","Manchester City (ENG)",170,121,35
+643,"ISCO","21.04.1992","MF","Real Madrid (ESP)",176,28,10
+644,"REINA","31.08.1982","GK","SSC Napoli (ITA)",188,36,0
+645,"OLSEN","08.01.1990","GK","FC København (DEN)",198,18,0
+646,"LUSTIG","13.12.1986","DF","Celtic (SCO)",189,66,6
+647,"LINDELÖF","17.07.1994","DF","Manchester United (ENG)",187,21,1
+648,"GRANQVIST","16.04.1985","DF","Krasnodar (RUS)",192,72,6
+649,"OLSSON","17.05.1988","DF","Swansea City (WAL)",177,43,5
+650,"AUGUSTINSSON","21.04.1994","DF","Werder Bremen (GER)",181,15,0
+651,"LARSSON","06.06.1985","MF","Hull City (ENG)",178,100,6
+652,"EKDAL","28.07.1989","MF","Hamburger SV (GER)",186,34,0
+653,"BERG","17.08.1986","FW","Al Ain (UAE)",183,57,18
+654,"FORSBERG","23.10.1991","MF","RasenBallsport Leipzig (GER)",179,36,6
+655,"GUIDETTI","15.04.1992","FW","Alavés (ESP)",185,20,1
+656,"JOHNSSON","28.01.1990","GK","Guingamp (FRA)",187,5,0
+657,"SVENSSON","07.02.1987","MF","Seattle Sounders Football Club(USA)",183,13,0
+658,"HELANDER","22.04.1993","DF","Bologna (ITA)",192,4,0
+659,"HILJEMARK","28.06.1992","MF","Genoa (ITA)",184,22,2
+660,"KRAFTH","02.08.1994","DF","Bologna (ITA)",181,13,0
+661,"CLAESSON","02.01.1992","MF","Krasnodar (RUS)",183,22,3
+662,"JANSSON","13.02.1991","DF","Leeds (ENG)",194,15,0
+663,"ROHDÉN","11.05.1991","MF","Crotone FC (ITA)",182,12,1
+664,"TOIVONEN","03.07.1986","FW","Toulouse FC (FRA)",192,59,13
+665,"DURMAZ","22.03.1989","MF","Toulouse FC (FRA)",180,45,3
+666,"KIESE THELIN","24.06.1992","FW","Beveren (BEL)",189,20,2
+667,"NORDFELDT","23.06.1989","GK","Swansea City (WAL)",190,8,0
+668,"SOMMER","17.12.1988","GK","Borussia Moenchengladbach (GER)",183,35,0
+669,"LICHTSTEINER","16.01.1984","DF","Juventus (ITA)",181,100,8
+670,"MOUBANDJE","21.06.1990","DF","Toulouse FC (FRA)",180,18,0
+671,"ELVEDI","30.09.1996","DF","Borussia Moenchengladbach (GER)",187,6,0
+672,"AKANJI","19.07.1995","DF","Borussia Dortmund (GER)",186,7,0
+673,"LANG","08.02.1991","DF","FC Basel (SUI)",185,24,2
+674,"EMBOLO","14.02.1997","FW","Schalke 04 (GER)",184,25,3
+675,"FREULER","15.04.1992","MF","Atalanta Bergamo (ITA)",181,10,0
+676,"SEFEROVIC","22.02.1992","FW","Benfica (POR)",186,51,12
+677,"XHAKA","27.09.1992","MF","Arsenal (ENG)",183,62,9
+678,"BEHRAMI","19.04.1985","MF","Udinese (ITA)",184,79,2
+679,"MVOGO","06.06.1994","GK","RasenBallsport Leipzig (GER)",186,0,0
+680,"RODRIGUEZ","25.08.1992","DF","AC Milan (ITA)",180,53,5
+681,"ZUBER","17.08.1991","MF","1899 Hoffenheim (GER)",182,12,3
+682,"DZEMAILI","12.04.1986","MF","Bologna (ITA)",180,65,10
+683,"G. FERNANDES","02.09.1986","MF","Eintracht Frankfurt (GER)",180,67,2
+684,"ZAKARIA","20.11.1996","MF","Borussia Moenchengladbach (GER)",189,10,0
+685,"GAVRANOVIC","24.11.1989","FW","Dinamo Zagreb (CRO)",175,14,5
+686,"DRMIC","08.08.1992","FW","Borussia Moenchengladbach (GER)",184,29,9
+687,"DJOUROU","18.01.1987","DF","Antalyaspor (TUR)",192,74,2
+688,"BÜRKI","14.11.1990","GK","Borussia Dortmund (GER)",188,9,0
+689,"SCHÄR","20.12.1991","DF","Deportivo La Coruña (ESP)",186,39,7
+690,"SHAQIRI","10.10.1991","MF","Stoke (ENG)",169,70,20
+691,"BEN MUSTAPHA","01.07.1989","GK","Al Shabab (KSA)",192,14,0
+692,"BEN YOUSSEF .S","31.03.1989","DF","Kasimpasa SK (TUR)",189,42,1
+693,"BEN ALOUANE","28.03.1987","DF","Leicester (ENG)",185,3,0
+694,"MERIAH","02.07.1993","DF","CS Sfaxien (TUN)",183,16,1
+695,"HADDADI","28.01.1992","DF","Dijon (FRA)",185,7,1
+696,"BEDOUI","19.01.1990","DF","ES du Sahel (TUN)",187,10,3
+697,"KHAOUI","27.04.1995","FW","Troyes (FRA)",180,4,0
+698,"BEN YOUSSEF .F","23.06.1991","FW","Al Ittifaq (KSA)",189,38,0
+699,"BADRI","18.09.1990","MF","Esperance (TUN)",178,9,2
+700,"KHAZRI","08.02.1991","FW","Rennes (FRA)",182,36,12
+701,"BRONN","19.06.1995","DF","AA Gent (BEL)",186,5,0
+702,"MAALOUL","01.01.1990","DF","Al Ahly Cairo (EGY)",170,46,8
+703,"SASSI","18.03.1992","MF","Al Nasr (KSA)",186,40,3
+704,"BEN AMOR","03.05.1992","MF","Al Ahli (KSA)",180,26,2
+705,"KHALIL","21.12.1994","FW","Club Africain (TUN)",187,2,0
+706,"MATHLOUTHI","14.09.1984","GK","Al Batin Football Club (KSA)",182,71,0
+707,"SKHIRI","10.05.1995","MF","Montpellier (FRA)",185,4,0
+708,"SRARFI","25.06.1997","FW","OGC Nice (FRA)",176,4,0
+709,"KHALIFA","14.10.1986","FW","Club Africain (TUN)",185,43,7
+710,"CHAALELI","28.02.1994","FW","Esperance (TUN)",179,6,1
+711,"NAGUEZ","28.10.1992","DF","Zamalek (EGY)",186,16,5
+712,"HASSEN","05.03.1995","GK","Chateauroux (FRA)",186,2,0
+713,"SLITI","27.07.1992","FW","Dijon (FRA)",173,18,3
+714,"F. MUSLERA","16.06.1986","GK","Galatasaray (TUR)",190,97,0
+715,"J.M. GIMENEZ","20.01.1995","DF","Atlético Madrid (ESP)",185,42,5
+716,"D. GODIN","16.02.1986","DF","Atlético Madrid (ESP)",185,116,8
+717,"G. VARELA","24.03.1993","DF","Peñarol (URU)",173,3,0
+718,"C. SANCHEZ","02.12.1984","MF","Monterrey (MEX)",171,35,1
+719,"R. BENTANCUR","25.06.1997","MF","Juventus (ITA)",187,7,0
+720,"C. RODRIGUEZ","30.09.1985","MF","Peñarol (URU)",178,105,11
+721,"N. NANDEZ","28.12.1995","MF","Boca Juniors (ARG)",171,12,0
+722,"L. SUAREZ","24.01.1987","FW","FC Barcelona (ESP)",182,98,51
+723,"G. DE ARRASCAETA","01.06.1994","FW","Cruzeiro (BRA)",172,14,2
+724,"C. STUANI","12.10.1986","FW","Girona Futbol Club (ESP)",186,41,5
+725,"M. CAMPAÑA","29.05.1989","GK","Independiente (ARG)",184,1,0
+726,"G. SILVA","05.03.1994","DF","Independiente (ARG)",185,17,0
+727,"L. TORREIRA","11.02.1996","MF","Sampdoria (ITA)",168,3,0
+728,"M. VECINO","24.08.1991","MF","Internazionale (ITA)",189,22,1
+729,"M. PEREIRA","08.06.1984","DF","FC Porto (POR)",173,125,3
+730,"D. LAXALT","07.02.1993","MF","Genoa (ITA)",178,6,0
+731,"M. GOMEZ","14.08.1996","FW","Celta (ESP)",186,5,0
+732,"S. COATES","07.10.1990","DF","Sporting CP (POR)",196,30,1
+733,"J. URRETAVISCAYA","19.03.1990","FW","Monterrey (MEX)",172,4,0
+734,"E. CAVANI","14.02.1987","FW","Paris Saint-Germain (FRA)",188,101,42
+735,"M. CACERES","07.04.1987","DF","Lazio (ITA)",178,76,4
+736,"M. SILVA","25.03.1983","GK","Clube de Regatas Vasco da Gama(BRA)",187,11,0
